@@ -1,15 +1,14 @@
+# Data Analytics/Visualisation Project: A Matplotlib Python-Table Dashboard
+An interactive dashboard in Python from Jupyter Notebook using Open source visualisation tool Panel
 # Global-liveability-Index-2023
 The findings of the latest liveability survey: optimism amid instability
-
-# Airbnb Data Analytics/Visualisation Project: A Python-Panel Dashboard🗽
-An interactive dashboard in Python from Jupyter Notebook using Open source visualisation tool Panel
 ## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
 - [Data](#data)
-- [Dashboard](#dashboard)
+- [Dashboard](#Table-Dashboard-Result)
 - [Usage](#usage)
 - [Acknowledgement](#acknowledgement)
 - [Contributing](#contributing)
@@ -17,8 +16,7 @@ An interactive dashboard in Python from Jupyter Notebook using Open source visua
 
 ## Project Overview📖
 
-The goal of this project is to provide insights and visualizations based on the Airbnb data in New York City. It includes interactive charts and filters to explore different aspects of the data, such as pricing trends, neighborhood comparisons, and room types.
-
+The goal of this project is to provide insights and visualization based on the the Top 10 and Bottom 10 cities to Live in 2023 by the Economist Intelligence Unit(EIU). It rates living conditions in 173 cities across these five categories: stability, health care, culture and environment, education and infrastructure.
 ## Getting Started🦘
 To get started with the project, follow these steps:
 
