@@ -1,7 +1,5 @@
 # Data Analytics/Visualisation Project: A Matplotlib Python-Table Dashboard
-An interactive dashboard in Python from Jupyter Notebook using Open source visualisation tool Panel
-# Global-liveability-Index-2023
-The findings of the latest liveability survey: optimism amid instability
+Global livability Index-2023: The findings of the latest liveability survey: optimism amid instability
 ## Table of Contents
 
 - [Project Overview](#project-overview)
